@@ -1,1 +1,1 @@
-lyy/java
+lyy/openjdk:8-jdk-alpine
